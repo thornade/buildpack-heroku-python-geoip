@@ -34,7 +34,7 @@ ENV_DIR=$3
 # Python defaults
 DEFAULT_PYTHON_VERSION="python-3.6.2"
 #DEFAULT_PYTHON_STACK="cedar-14"
-DEFAULT_PYTHON_STACK="eroku:16-build"
+DEFAULT_PYTHON_STACK="heroku:16-build"
 PYTHON_EXE="/app/.heroku/python/bin/python"
 PIP_VERSION="9.0.1"
 
